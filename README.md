@@ -1,4 +1,4 @@
-[Visit my website!](https://ramyarajasekaran.github.io/)
+[Visit my website!](https://ramyarajasekaran.github.io/me)
 
 Hey there! This is my personal portfolio website. I hope you can learn more about me and my work. 
 
